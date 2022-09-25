@@ -1,0 +1,116 @@
+@media only screen and (max-width: 600px) {
+  /* navigation */
+  .navbar-collapse a {
+    font-size: 4rem;
+    font-family: degular-display, sans-serif;
+    font-weight: 800;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: var(--bs-body-color);
+    -webkit-text-stroke-width: 1px;
+    letter-spacing: 2px;
+  }
+  .navbar-collapse a:hover {
+    -webkit-text-fill-color: var(--themecolour);
+    -webkit-text-stroke-color: var(--themecolour);
+  }
+  .navbar-collapse a .button {
+    font-size: 4rem;
+    font-family: degular-display, sans-serif;
+    font-weight: 800;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: var(--bs-body-color);
+    -webkit-text-stroke-width: 1px;
+    letter-spacing: 2px;
+    padding: 0;
+    line-height: 0.8;
+    background-color: transparent;
+  }
+  .navbar-collapse a .button:hover,
+  .navbar-collapse a .button:focus {
+    background: transparent;
+    -webkit-text-fill-color: var(--themecolour);
+    -webkit-text-stroke-color: var(--themecolour);
+  }
+
+  /* general */
+  .onih0 {
+    font-size: 4rem;
+  }
+  .onih1 {
+    font-size: 3rem;
+  }
+  .onih2 {
+    font-size: 2rem;
+  }
+  .onih3 {
+    font-size: 1.4rem;
+  }
+  .onih4 {
+    font-size: 1.2rem;
+  }
+
+  /* home page */
+  #mousex,
+  #mousey {
+    display: none;
+  }
+  .roadmapimage {
+    max-height: 150px;
+  }
+  .Roadmapslider .swiper-button-prev,
+  .Roadmapslider .swiper-button-next {
+    bottom: 0;
+  }
+  .swiper-slide p {
+    margin-bottom: 80px;
+  }
+  .onitypesholder ul {
+    width: 100%;
+    padding-right: 10%;
+  }
+  .Hero {
+    background-size: cover;
+  }
+  .heroanim {
+    margin-top: 10vh;
+  }
+  .intro {
+    padding-top: 0;
+  }
+  .levelimage {
+    width: 40%;
+  }
+  .parktext div {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .Team {
+    margin-bottom: -2vh;
+  }
+  .teammember {
+    width: 80% !important;
+    margin-left: 10%;
+    margin-bottom: 10px;
+  }
+  .copyright .col {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .Footer {
+    text-align: center;
+  }
+  .social {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  /* mint page */
+  #rampp-claim-counter {
+    font-size: 3.5rem !important;
+  }
+}

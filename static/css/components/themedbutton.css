@@ -1,0 +1,6 @@
+.themedbutton {
+  background-color: var(--themecolour) !important;
+  padding: 18px 30px !important;
+  border-radius: 0 !important;
+  border: none !important;
+}

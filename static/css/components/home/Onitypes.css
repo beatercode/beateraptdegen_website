@@ -1,0 +1,37 @@
+.onitypesbg {
+  width: 100%;
+  height: auto;
+}
+.onitypes {
+  margin: 10vh 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.onitypesholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.onitypesholder ul {
+  list-style: none;
+  position: absolute;
+  width: 75%;
+}
+.onitypesholder ul li {
+  display: flex;
+  justify-content: space-between;
+}
+.onitypesholder ul li span {
+  border-top: 2px solid black;
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.onitypesholder h2 {
+  transition: 0.1s ease-in;
+}
+.onitypesholder h2:hover {
+  color: white;
+}

@@ -1,0 +1,21 @@
+.intro {
+  padding-top: 10vh;
+}
+.heroanim {
+  width: 100%;
+  margin-top: 25vh;
+}
+.intro span {
+  font-size: 30px;
+}
+.Hero .container {
+  max-width: 95% !important;
+}
+.Hero {
+  background-image: url("../../images/hero.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Hero .onih3 {
+  font-weight: 700;
+}

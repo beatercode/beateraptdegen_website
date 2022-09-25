@@ -1,0 +1,17 @@
+:root {
+  --silenced: #ef795b;
+  --soulstealer: #f58abf;
+  --warlord: #95c183;
+  --assassin: #505050;
+
+  --themecolour: #ef795b;
+  --themecolour2: #db6547;
+  --bodybg: #ffffff;
+}
+
+body.dark {
+  --themecolour: #dbdbdb;
+  --themecolour2: #414b54;
+  --bs-body-color: #bec6cf;
+  --bodybg: #141414;
+}

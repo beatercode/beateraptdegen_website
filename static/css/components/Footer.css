@@ -1,0 +1,86 @@
+.onih1.italic {
+  font-style: italic;
+  -webkit-text-stroke: 1px var(--bs-body-color);
+  -webkit-text-fill-color: transparent;
+}
+.onih1 {
+  line-height: 0.7;
+  display: inline-block;
+}
+.Footer {
+  margin-top: 10vh;
+}
+.copyright .col {
+  display: flex;
+  text-transform: uppercase;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.copyright p {
+  color: var(--bs-body-color);
+}
+.social a {
+  color: var(--themecolour2);
+}
+.social a:hover {
+  color: var(--themecolour);
+}
+.Footer .onih3 {
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+.awesome {
+  display: flex;
+}
+.footertoggle {
+  display: flex;
+  margin-left: 10px;
+}
+.footertoggle .one,
+.footertoggle .two {
+  position: absolute;
+  opacity: 0;
+}
+.footertoggle .two {
+  animation: footertoggle2 2s infinite linear;
+}
+.footertoggle .one {
+  animation: footertoggle 2s infinite linear;
+}
+
+@keyframes footertoggle {
+  0% {
+    opacity: 0;
+  }
+  49% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  99% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes footertoggle2 {
+  0% {
+    opacity: 1;
+  }
+  49% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

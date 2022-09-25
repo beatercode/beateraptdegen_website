@@ -1,0 +1,10 @@
+.featured {
+  background-color: #f3f3f3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+}
+.nftcalendar {
+  width: 100px;
+}

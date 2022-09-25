@@ -1,0 +1,21 @@
+video {
+  position: absolute;
+  width: 80%;
+}
+.onipartsvideo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.onipartsborder {
+  width: 100%;
+  height: auto;
+}
+.onipartsborder svg g path,
+.onipartsborder path {
+  stroke: var(--themecolour);
+  fill: none !important;
+}
+.oniparts {
+  margin-top: 10vh;
+}

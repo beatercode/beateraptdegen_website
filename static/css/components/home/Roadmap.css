@@ -1,0 +1,48 @@
+.Roadmap {
+  max-width: 100% !important;
+}
+.Roadmapslider {
+  margin: 10vh 0;
+}
+.roadmapimage {
+  max-width: 100%;
+  max-height: 300px;
+  text-align: left;
+  margin-bottom: 50px;
+  height: auto;
+  width: auto;
+}
+.roadmapimage path {
+  fill: none !important;
+  stroke: var(--themecolour);
+}
+.Roadmapslider .swiper-button-prev,
+.Roadmapslider .swiper-button-next {
+  width: 60px;
+  height: 60px;
+  background-color: var(--themecolour);
+  color: var(--bodybg);
+}
+.Roadmapslider .swiper-button-prev::after,
+.Roadmapslider .swiper-button-next::after {
+  font-size: 12px;
+  text-shadow: 0 1px 1px white;
+}
+.Roadmapslider .swiper-button-prev {
+  position: absolute;
+  bottom: 50px;
+  top: auto;
+  left: 20px;
+}
+.Roadmapslider .swiper-button-next {
+  position: absolute;
+  bottom: 50px;
+  left: 90px;
+  top: auto;
+}
+.Roadmapslider .swiper-slide {
+  padding: 0 30px;
+}
+.Roadmapslider .onih3 {
+  color: var(--themecolour);
+}

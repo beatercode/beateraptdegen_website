@@ -1,0 +1,69 @@
+.Park {
+  margin-top: 5vh;
+  padding: 0;
+  max-width: 100% !important;
+}
+.Park h2,
+.Park p {
+  color: var(--bodybg);
+}
+.thepark-block {
+  background: var(--themecolour);
+  color: white;
+  padding: 50px 0;
+}
+.thepark {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.thepark p {
+  margin-top: 50px;
+  max-width: 500px;
+}
+.parktext {
+  display: flex;
+  align-items: center;
+}
+.parktext div {
+  width: 60%;
+}
+.parkheader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+.wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: marquee 20s linear infinite;
+}
+
+.marquee h2 {
+  display: inline-block;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}

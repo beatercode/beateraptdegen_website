@@ -1,0 +1,29 @@
+.teammember {
+  padding: 60px !important;
+  border: 1px solid var(--themecolour);
+  border-style: dotted;
+}
+.teammember .onih5 {
+  margin-bottom: 20px;
+}
+.teamintro {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--themecolour2);
+}
+.link {
+  color: var(--themecolour2);
+  text-decoration: none;
+}
+.link:hover {
+  color: var(--themecolour1);
+}
+.Team {
+  max-width: 100% !important;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.Team .onih0 {
+  display: inline-block;
+}

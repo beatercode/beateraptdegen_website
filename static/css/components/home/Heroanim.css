@@ -1,0 +1,141 @@
+.heroanim {
+  overflow: visible;
+}
+.herotext {
+  font-size: 82px;
+  font-family: degular-display, sans-serif;
+  font-weight: 500;
+}
+.rotate {
+  animation: rotate 10s infinite linear;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.pixels path {
+  animation: blink 3s infinite linear;
+}
+.pixels .one {
+  animation-delay: 2s;
+}
+.pixels .seven {
+  animation-delay: 3.2s;
+}
+.pixels .four {
+  animation-delay: 0.7s;
+}
+.pixels .two {
+  animation-delay: 1.4s;
+}
+.pixels .five {
+  animation-delay: 0.8s;
+}
+.flag1 {
+  animation: wave3 3s infinite linear;
+}
+.flag2 {
+  animation: wave2 3s infinite linear;
+  animation-delay: 0.2s;
+}
+.flag3 {
+  animation: wave 3s infinite linear;
+  animation-delay: 0.4s;
+}
+.herox {
+  animation: rotate2 5s infinite linear;
+  transform-box: fill-box;
+  transform-origin: center;
+  transform: translate(10px, 5px);
+}
+.x {
+  animation: fade 5s infinite linear;
+}
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes rotate2 {
+  from {
+    transform: rotateY(0);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+@keyframes wave {
+  0% {
+    transform: translate(-195.552px, -140.575px);
+  }
+  10% {
+    transform: translate(-180.552px, -140.575px);
+  }
+  20% {
+    transform: translate(-195.552px, -140.575px);
+  }
+  100% {
+    transform: translate(-195.552px, -140.575px);
+  }
+}
+@keyframes wave2 {
+  0% {
+    transform: translate(-199.327px, -117.074px);
+  }
+  10% {
+    transform: translate(-184.327px, -117.074px);
+  }
+  20% {
+    transform: translate(-199.327px, -117.074px);
+  }
+  100% {
+    transform: translate(-199.327px, -117.074px);
+  }
+}
+@keyframes wave3 {
+  0% {
+    transform: translate(-203.409px, -93.762px);
+  }
+  10% {
+    transform: translate(-194.409px, -93.762px);
+  }
+  20% {
+    transform: translate(-203.409px, -93.762px);
+  }
+  100% {
+    transform: translate(-203.409px, -93.762px);
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  51% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+  61% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

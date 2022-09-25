@@ -1,0 +1,27 @@
+.oniimage {
+  width: 100%;
+  margin-right: 15px;
+}
+
+.swiper {
+  margin-top: 5vh;
+}
+
+.swiper-pagination-bullet {
+  width: 50px !important;
+  height: 6px !important;
+  border-radius: 0 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--themecolour) !important;
+}
+
+.swiper-pagination {
+  transform: translate3d(0, 50px, 0) !important;
+}
+.custom-pagination {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
