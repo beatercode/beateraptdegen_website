@@ -24964,39 +24964,99 @@
               className: "mySwiper",
               children: [
                 (0, Ze.jsx)(Sp, {
-                  children: (0, Ze.jsx)("img", {
-                    className: "oniimage",
-                    src: Cp,
-                    alt: "Warlord",
-                  }),
+                  children: [
+                    (0, Ze.jsx)("div", {
+                      children: [
+                        (0, Ze.jsx)("div", {
+                          className: "imageClassTag",
+                          children: (0, Ze.jsx)("a", {
+                            children: "WARLORD"
+                          }),
+                        }),
+                        (0, Ze.jsx)("img", {
+                          className: "oniimage",
+                          src: Cp,
+                          alt: "Warlord",
+                        })
+                      ]
+                    })
+                  ],
                 }),
                 (0, Ze.jsx)(Sp, {
-                  children: (0, Ze.jsx)("img", {
-                    className: "oniimage",
-                    src: kp,
-                    alt: "Soulstealer",
-                  }),
+                  children: [
+                    (0, Ze.jsx)("div", {
+                      children: [
+                        (0, Ze.jsx)("div", {
+                          className: "imageClassTag",
+                          children: (0, Ze.jsx)("a", {
+                            children: "SOULSTEALER"
+                          }),
+                        }),
+                        (0, Ze.jsx)("img", {
+                          className: "oniimage",
+                          src: kp,
+                          alt: "Soulstealer",
+                        })
+                      ]
+                    })
+                  ],
                 }),
                 (0, Ze.jsx)(Sp, {
-                  children: (0, Ze.jsx)("img", {
-                    className: "oniimage",
-                    src: Pp,
-                    alt: "Almighty",
-                  }),
+                  children: [
+                    (0, Ze.jsx)("div", {
+                      children: [
+                        (0, Ze.jsx)("div", {
+                          className: "imageClassTag",
+                          children: (0, Ze.jsx)("a", {
+                            children: "ALMIGHTY"
+                          }),
+                        }),
+                        (0, Ze.jsx)("img", {
+                          className: "oniimage",
+                          src: Pp,
+                          alt: "Almighty",
+                        })
+                      ]
+                    })
+                  ],
                 }),
                 (0, Ze.jsx)(Sp, {
-                  children: (0, Ze.jsx)("img", {
-                    className: "oniimage",
-                    src: Tp,
-                    alt: "Shadow Assassin",
-                  }),
+                  children: [
+                    (0, Ze.jsx)("div", {
+                      children: [
+                        (0, Ze.jsx)("div", {
+                          className: "imageClassTag",
+                          children: (0, Ze.jsx)("a", {
+                            children: "SHADOW ASSASSIN"
+                          }),
+                        }),
+                        (0, Ze.jsx)("img", {
+                          className: "oniimage",
+                          src: Tp,
+                          alt: "Shadow Assassin",
+                        })
+                      ]
+                    })
+                  ],
                 }),
                 (0, Ze.jsx)(Sp, {
-                  children: (0, Ze.jsx)("img", {
-                    className: "oniimage",
-                    src: jp,
-                    alt: "Silenced",
-                  }),
+                  children: [
+                    (0, Ze.jsx)("div", {
+                      children: [
+                        (0, Ze.jsx)("div", {
+                          className: "imageClassTag",
+                          children: (0, Ze.jsx)("a", {
+                            children: "SILENCED"
+                          }),
+                        }),
+                        (0, Ze.jsx)("img", {
+                          className: "oniimage",
+                          src: jp,
+                          alt: "Silenced",
+                        })
+                      ]
+                    })
+                  ],
                 }),
               ],
             }),

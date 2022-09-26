@@ -7,7 +7,20 @@ svg {
   font-family: aptosDegensFont;
   src: url(../media/AptosDegensFont.ttf);
 }
-
+.imageClassTag > a {
+  font-weight: 700;
+  letter-spacing: -2px;
+  padding: 5px 0px 5px 0px;
+  writing-mode: tb-rl;
+  text-orientation: upright;
+}
+.imageClassTag {
+  top: 5px;
+  left: 7px;
+  background-color: rgb(46 216 167);
+  border-radius: 8px;
+  position: absolute;
+}
 .topTitle {
   margin-top: 15vh;
   text-align: center;
