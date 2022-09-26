@@ -1301,7 +1301,7 @@ button.swiper-pagination-bullet {
   top: auto;
 }
 .Roadmapslider .swiper-slide {
-  padding: 0 30px;
+  padding: 0 0px;
 }
 .Roadmapslider .onih3 {
   color: var(--themecolour);
@@ -2788,7 +2788,7 @@ progress {
   }
   .col-lg-9 {
     flex: 0 0 auto;
-    width: 75%;
+    width: 70%;
   }
   .col-lg-10 {
     flex: 0 0 auto;
