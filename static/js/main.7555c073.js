@@ -25479,6 +25479,54 @@
         });
       };
       var Np = n.p + "static/media/levels.svg";
+      var Nx = n.p + "static/media/daoImage.png";
+      var Lx = function () {
+        return (0, Ze.jsx)(Mr, {
+          className: "Dao",
+          children: (0, Ze.jsxs)(Fd, {
+            className: "daosection-block",
+            children: [
+              (0, Ze.jsx)("div", {
+                className: "wrapper",
+                children: (0, Ze.jsx)("h1", {
+                  className: "onih1 theme-letterborder dao-section-title",
+                  children: "APTOS DEGENS DAO",
+                }),
+              }),
+              (0, Ze.jsx)(Ud, {
+                xs: "12",
+                sm: "12",
+                md: "12",
+                lg: "6",
+                xl: "6",
+                xxl: "6",
+                className: "parktext",
+                children: (0, Ze.jsx)("div", {
+                  children: (0, Ze.jsx)("p", {
+                    className: "dark",
+                    children:
+                      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                  }),
+                }),
+              }),
+              (0, Ze.jsx)(Ud, {
+                xs: "12",
+                sm: "12",
+                md: "12",
+                lg: "6",
+                xl: "6",
+                xxl: "6",
+                className: "thepark",
+                children: (0, Ze.jsx)("img", {
+                  src: Nx,
+                  className: "daoImage",
+                  alt: "Oni Release",
+                }),
+              }),
+            ],
+          }),
+        });
+      };
       var Lp = function () {
         return (0, Ze.jsx)(Mr, {
           className: "Park",
@@ -25857,6 +25905,7 @@
               (0, Ze.jsx)(Zd, {}),
               (0, Ze.jsx)(Op, {}),
               (0, Ze.jsx)(Mp, {}),
+              (0, Ze.jsx)(Lx, {}),
               (0, Ze.jsx)(Lp, {}),
               (0, Ze.jsx)(Ap, {}),
               (0, Ze.jsx)(zp, {}),

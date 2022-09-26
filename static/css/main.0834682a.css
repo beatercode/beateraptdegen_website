@@ -1302,6 +1302,21 @@ button.swiper-pagination-bullet {
 .Roadmapslider .onih3 {
   color: var(--themecolour);
 }
+.dao-section-title {
+  color: rgb(46 216 167);
+  text-shadow: none;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 7em;
+  margin-bottom: 0px !important;
+  letter-spacing: 0.3rem;
+}
+.Dao {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 5vh;
+  border: 1px dotted var(--themecolour)
+}
 .Park {
   margin-top: 5vh;
   max-width: 100% !important;
@@ -1317,6 +1332,11 @@ button.swiper-pagination-bullet {
 .Park p {
   font-weight: 500;
   color: var(--bs-body-color);
+}
+.daosection-block {
+  background-color: transparent !important;
+  color: #000;
+  padding: 50px 0;
 }
 .thepark-block {
   background: var(--themecolour);
@@ -1335,6 +1355,7 @@ button.swiper-pagination-bullet {
   max-width: 500px;
 }
 .parktext {
+  padding-left: 20px;
   align-items: center;
   display: flex;
 }
@@ -5115,6 +5136,9 @@ fieldset:disabled .btn {
   color: #212529;
   display: block;
   padding: 0.25rem 1rem;
+}
+p.dark {
+  padding-left: 20px;
 }
 .dropdown-menu-dark {
   background-color: #343a40;
@@ -11566,6 +11590,9 @@ fieldset:disabled .btn {
 .error .button:hover {
   color: var(--bodybg);
 }
+.daoImage { 
+  width: 65%;
+}
 @media only screen and (max-width: 600px) {
   .imageClassTag {
     visibility: hidden; 
@@ -11602,7 +11629,7 @@ fieldset:disabled .btn {
     font-size: 4rem;
   }
   .onih1 {
-    font-size: 6rem;
+    font-size: 5.5rem;
     margin-bottom: 100px;
   }
   .onih2 {
