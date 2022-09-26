@@ -160,6 +160,9 @@ svg g path {
   -webkit-text-stroke-width: 1px;
   letter-spacing: 2px;
 }
+.noWrap {
+  white-space: nowrap;
+}
 .onih1,
 h1 {
   font-size: 6.5rem;
@@ -219,14 +222,14 @@ h5 {
   --soulstealer: #f58abf;
   --warlord: #95c183;
   --assassin: #505050;
-  --themecolour: #ef795b;
-  --themecolour2: #db6547;
+  --themecolour: rgb(46 216 167);
+  --themecolour2: rgb(46 216 167);
   --bodybg: #fff;
 }
 body.dark {
-  --themecolour: #dbdbdb;
-  --themecolour2: #414b54;
-  --bs-body-color: #bec6cf;
+  --themecolour: rgb(46 216 167);
+  --themecolour2: rgb(46 216 167);
+  --bs-body-color: #dee1e5;
   --bodybg: #141414;
 }
 .noise {
@@ -710,7 +713,7 @@ video {
   border-top: 2px solid #000;
   margin-left: 10px;
   margin-right: 10px;
-  margin-top: 20px;
+  margin-top: 45px;
   width: 90%;
 }
 .onitypesholder h2 {
@@ -718,6 +721,15 @@ video {
 }
 .onitypesholder h2:hover {
   color: #fff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.theme-letterborder {
+  color: #fff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.darkText {
+  margin-right: 15px;
+  width: 100%;
 }
 .oniimage {
   margin-right: 15px;
@@ -1240,9 +1252,12 @@ button.swiper-pagination-bullet {
   max-width: 100% !important;
   padding: 0;
 }
-.Park h2,
-.Park p {
+.Park h2 {
   color: var(--bodybg);
+}
+.Park p {
+  font-weight: 500;
+  color: var(--bs-body-color);
 }
 .thepark-block {
   background: var(--themecolour);
@@ -1323,6 +1338,11 @@ button.swiper-pagination-bullet {
 .teammember .onih5 {
   margin-bottom: 20px;
 }
+.oniexamples {
+  width: 100vw;
+  max-width: 1000px;
+  margin: auto;
+}
 .teamintro {
   font-style: italic;
   font-weight: 600;
@@ -1333,6 +1353,7 @@ button.swiper-pagination-bullet {
   color: var(--themecolour2);
 }
 .link {
+  font-weight: 700;
   text-decoration: none;
 }
 .link:hover {
@@ -11372,6 +11393,7 @@ fieldset:disabled .btn {
 .mintbody {
   align-items: center;
   display: flex;
+  flex-direction: column;
   height: 100%;
   justify-content: center;
   position: fixed;
@@ -11384,11 +11406,23 @@ fieldset:disabled .btn {
   width: auto;
   z-index: 0;
 }
+.minting-amount {
+  text-align: center;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  margin: 0px;
+  color: var(--bs-body-color) !important;
+  font-family: degular-display, sans-serif !important;
+  font-size: 6.5rem !important;
+  font-weight: 800;
+  line-height: 1 !important;
+  margin-top: 20px !important;
+  text-transform: uppercase;
+}
 .mintingblock {
   align-items: center;
   display: flex;
   flex-direction: column;
-  position: absolute;
   z-index: 1;
 }
 .mintingblock h1 {
@@ -11399,6 +11433,39 @@ fieldset:disabled .btn {
 }
 .mintbody .dark {
   background: var(--bs-body-color);
+}
+.clone-rampp-content-wrapper {
+  width: fit-content;
+  display: flex;
+  gap: 5px;
+}
+.pre-mintingblock {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+.clone-rampp-mint-quantity {
+  width: 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.125rem;
+  font-size: 1.3rem;
+  text-align: center;
+  border-color: var(--themecolour) !important;
+  color: #000 !important;
+}
+.clone-rampp-minting-button {
+  border: none;
+  width: 15rem;
+  padding: 0.5rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 0.125rem;
+  color: rgb(255, 255, 255);
+  background-color: var(--themecolour2) !important;
 }
 #rampp-claim-counter {
   color: var(--bs-body-color) !important;

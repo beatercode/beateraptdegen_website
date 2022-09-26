@@ -30,11 +30,11 @@ function Home() {
       >
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Oni-nous experience</title>
+          <title>Aptos Degen experience</title>
           <link rel="canonical" href="https://oninous.com" />
           <meta
             name="description"
-            content="Oni-nous NFT collection and virtual experience"
+            content="Aptos Degen NFT collection and virtual experience"
           />
         </Helmet>
         <div className="noise"></div>
