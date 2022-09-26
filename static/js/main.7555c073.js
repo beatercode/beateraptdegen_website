@@ -25253,7 +25253,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            'To be able to discover the park throughout the eyes of your Oni, we are delivering a 2.0 version to all owners. This will include a body and some other updates in the Oni mechanics. We will do some polish in their behaviour as well, because some of them tend to be a little "disobedient".',
+                            'To be able to discover the park throughout the eyes of your Degens, we are delivering a 2.0 version to all owners. This will include a body and some other updates in the Degen mechanics. We will do some polish in their behaviour as well, because some of them tend to be a little "disobedient".',
                         }),
                       ],
                     }),
@@ -25467,7 +25467,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            "The highly anticipated Aptos Degens Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Oni. Proceed with caution.",
+                            "The highly anticipated Aptos Degens Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Degens. Proceed with caution.",
                         }),
                       ],
                     }),
@@ -25520,7 +25520,7 @@
                 children: (0, Ze.jsx)("img", {
                   src: Nx,
                   className: "daoImage",
-                  alt: "Oni Release",
+                  alt: "Degens Release",
                 }),
               }),
             ],
@@ -25541,12 +25541,12 @@
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Degens park. Get your oni today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Degens park. Get your Degens today.\xa0",
                     }),
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Degens park. Get your oni today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Degens park. Get your Degens today.\xa0",
                     }),
                   ],
                 }),
@@ -25562,7 +25562,7 @@
                 children: (0, Ze.jsx)("img", {
                   src: Np,
                   className: "levelimage",
-                  alt: "Oni Release",
+                  alt: "Degens Release",
                 }),
               }),
               (0, Ze.jsx)(Ud, {
@@ -25577,7 +25577,7 @@
                   children: (0, Ze.jsx)("p", {
                     className: "dark",
                     children:
-                      "The Aptos Degens park is a digital experience where the Oni holders can experience a digitally fabricated world through their onis eyes. Depending on the kind of oni they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every oni will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
+                      "The Aptos Degens park is a digital experience where the Degens holders can experience a digitally fabricated world through their eyes. Depending on the kind of Degen they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every Degen will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
                   }),
                 }),
               }),
@@ -25651,7 +25651,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Executive Officer, Zsolt comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Oni Research Department he's working closely with his team to deliver the highest quality of robotics available.",
+                      "Our Chief Executive Officer, Zsolt comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Degens Research Department he's working closely with his team to deliver the highest quality of robotics available.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25690,7 +25690,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Oni Resources he's handling all the upcoming disputes in our company as well as some of the oni behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Degens Resources he's handling all the upcoming disputes in our company as well as some of the Degens behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25729,7 +25729,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Oni Resources he's handling all the upcoming disputes in our company as well as some of the oni behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Degens Resources he's handling all the upcoming disputes in our company as well as some of the degens behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25768,7 +25768,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Oni Resources he's handling all the upcoming disputes in our company as well as some of the oni behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Degends Resources he's handling all the upcoming disputes in our company as well as some of the degends behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -26035,7 +26035,7 @@
                 children: [
                   (0, Ze.jsx)("meta", { charSet: "utf-8" }),
                   (0, Ze.jsx)("title", {
-                    children: "Aptos Degens Mint your oni soon",
+                    children: "Aptos Degens Mint your degens soon",
                   }),
                   (0, Ze.jsx)("link", {
                     rel: "canonical",
