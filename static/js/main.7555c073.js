@@ -12375,6 +12375,7 @@
               (0, Ze.jsxs)(Pr.Collapse, {
                 id: "responsive-navbar-nav",
                 children: [
+                  /*
                   (0, Ze.jsx)("a", {
                     onClick: () => {
                       document.body.classList.contains("dark")
@@ -12383,6 +12384,7 @@
                     },
                     children: "🌤️"
                   }),
+                  */
                   (0, Ze.jsx)(Z, { to: "/", children: "Home" }),
                   (0, Ze.jsx)("a", {
                     href: "https://twitter.com/",
