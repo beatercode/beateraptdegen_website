@@ -145,6 +145,7 @@ nav ul li {
   flex-direction: row;
 }
 .mint-nav-button {
+  color: white !important;
   background-color: #06350b !important;
   padding: 1em !important;
   border-radius: 6px !important;
