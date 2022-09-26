@@ -181,6 +181,17 @@ svg g path {
   -webkit-text-stroke-width: 1px;
   letter-spacing: 2px;
 }
+.roadmap-p-phases {
+  margin-top: 70px;
+}
+.roadmap-title-phases {
+  font-weight: 700;
+  font-style: italic;
+  line-height: 0.8em;
+  font-size: 8em;
+  color: white;
+  text-shadow: -1px 0  var(--themecolour), 0 1px  var(--themecolour), 1px 0  var(--themecolour), 0 -1px  var(--themecolour);
+}
 .noWrap {
   white-space: nowrap;
 }
@@ -11540,6 +11551,9 @@ fieldset:disabled .btn {
   color: var(--bodybg);
 }
 @media only screen and (max-width: 600px) {
+  .roadmap-title-phases {
+    font-size: 4em;
+  }
   .navbar-collapse a {
     color: white;
     font-family: degular-display, sans-serif;
@@ -11617,6 +11631,8 @@ fieldset:disabled .btn {
     width: 40%;
   }
   .parktext div {
+    padding-left: 1em;
+    padding-right: 1em;
     margin-top: 30px;
     width: 100%;
   }

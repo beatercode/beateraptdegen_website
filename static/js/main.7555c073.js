@@ -25044,25 +25044,27 @@
                       xl: "7",
                       xxl: "7",
                       children: [
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "DEGENS",
+                        }),
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "RELEASE",
+                        }),
+                        /*
                         (0, Ze.jsx)("svg", {
                           xmlns: "http://www.w3.org/2000/svg",
                           width: "1285.192",
                           height: "458.514",
                           viewBox: "0 0 1285.192 458.514",
                           className: "roadmapimage",
-                          children: (0, Ze.jsxs)("g", {
+                          children: [
+                            (0, Ze.jsxs)("g", {
                             strokeWidth: "1",
                             "data-name": "Group 311",
                             transform: "translate(0 -.586)",
                             children: [
-                              (0, Ze.jsx)("path", {
-                                d: "M311.159 132.202c-5.912-19.128-16-53.561-22.258-78.6h-1.044c-3.826 27.127-9.042 60.169-12.87 81.035l-13.911 79.992H213.43L250.297 5.955h73.034l21.91 69.9c7.306 24.693 16.348 56.691 21.912 80.34h1.043c3.823-25.388 7.651-50.428 11.129-69.9l14.261-80.34h47.646l-36.865 208.674h-66.43z",
-                                "data-name": "Path 72",
-                              }),
-                              (0, Ze.jsx)("path", {
-                                d: "M424.877 214.628L461.396 5.955h50.081L474.96 214.628z",
-                                "data-name": "Path 73",
-                              }),
                               (0, Ze.jsx)("path", {
                                 d: "M92.76 376.868H64.242l-13.564 76.86H.6l36.863-208.672h87.991c53.558 0 77.208 27.82 69.556 73.034-5.217 30.953-23.3 47.994-50.776 54.95l41.038 79.992v.7H126.5zm-13.216-87.3l-8 45.907h40.691c19.826 0 31.3-7.3 33.737-20.867 2.782-16.346-4.869-25.04-25.04-25.04z",
                                 "data-name": "Path 74",
@@ -25096,7 +25098,7 @@
                                 "data-name": "Path 85",
                               }),
                               (0, Ze.jsx)("path", {
-                                d: "M4.072 99.163C14.157 41.429 59.021 1.086 119.885 1.086c35.126 0 61.994 12.955 78.558 34.474s22.823 51.6 16.737 85.861c-10.433 57.386-53.561 98.077-116.509 98.077-36 0-62.69-13.129-78.862-34.735s-21.824-51.691-15.737-85.6z",
+                                d: "M 59 75 C 69 8 59.021 1.086 119.885 1.086 c 35.126 0 61.994 12.955 78.558 34.474 s 22.823 51.6 19.557 106.44 c -17 89 -56.18 82.579 -176.18 79.579 z",
                                 "data-name": "Path 86",
                               }),
                               (0, Ze.jsx)("path", {
@@ -25105,10 +25107,13 @@
                               }),
                             ],
                           }),
+                          ]
                         }),
+                        */
                         (0, Ze.jsx)("p", {
+                          className: "roadmap-p-phases",
                           children:
-                            "The Aptos Degens Experiment is more than a simple collection of 6,667 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
+                            "The Aptos Degens Experiment is more than a simple collection of 6,659 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
                         }),
                       ],
                     }),
@@ -25138,6 +25143,15 @@
                       xl: "9",
                       xxl: "9",
                       children: [
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "DEGENS",
+                        }),
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "2.0",
+                        }),
+                        /*
                         (0, Ze.jsx)("svg", {
                           xmlns: "http://www.w3.org/2000/svg",
                           width: "521.364",
@@ -25184,7 +25198,9 @@
                             ],
                           }),
                         }),
+                        */
                         (0, Ze.jsx)("p", {
+                          className: "roadmap-p-phases",
                           children:
                             'To be able to discover the park throughout the eyes of your Oni, we are delivering a 2.0 version to all owners. This will include a body and some other updates in the Oni mechanics. We will do some polish in their behaviour as well, because some of them tend to be a little "disobedient".',
                         }),
@@ -25216,6 +25232,15 @@
                       xl: "9",
                       xxl: "9",
                       children: [
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "PARK",
+                        }),
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "PREVIEW",
+                        }),
+                        /*
                         (0, Ze.jsx)("svg", {
                           xmlns: "http://www.w3.org/2000/svg",
                           width: "1319.633",
@@ -25278,7 +25303,9 @@
                             ],
                           }),
                         }),
+                        */
                         (0, Ze.jsx)("p", {
+                          className: "roadmap-p-phases",
                           children:
                             "For the investors we will be releasing limited access to some parts of the park before opening, like the Hell of Fame, the official museum of the Aptos Degens.",
                         }),
@@ -25310,6 +25337,15 @@
                       xl: "9",
                       xxl: "9",
                       children: [
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "PARK",
+                        }),
+                        (0, Ze.jsx)("div", {
+                          className: "roadmap-title-phases",
+                          children: "RELEASE",
+                        }),
+                        /*
                         (0, Ze.jsx)("svg", {
                           xmlns: "http://www.w3.org/2000/svg",
                           width: "1285.843",
@@ -25376,7 +25412,9 @@
                             ],
                           }),
                         }),
+                        */
                         (0, Ze.jsx)("p", {
+                          className: "roadmap-p-phases",
                           children:
                             "The highly anticipated Aptos Degens Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Oni. Proceed with caution.",
                         }),
