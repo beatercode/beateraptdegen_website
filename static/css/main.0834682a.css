@@ -174,7 +174,7 @@ svg g path {
 }
 .onih1,
 h1 {
-  font-size: 6.5rem;
+  font-size: 9rem;
 }
 .onih1,
 .onih2,
@@ -678,8 +678,11 @@ video {
 .oniparts {
   margin-top: 10vh;
 }
-.Oniintro {
+.Oniintro,
+.Oniintro > .row > .col {
   max-width: 100% !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
 }
 .Oniintro h1 {
   display: inline-block;
@@ -11550,7 +11553,8 @@ fieldset:disabled .btn {
     font-size: 4rem;
   }
   .onih1 {
-    font-size: 3rem;
+    font-size: 6rem;
+    margin-bottom: 100px;
   }
   .onih2 {
     font-size: 2rem;
