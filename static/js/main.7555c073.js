@@ -12392,7 +12392,7 @@
                     children: (0, Ze.jsx)(Rr, {
                       className: "button mint-nav-button",
                       href: "https://bluemove.net/",
-                      children: "Invest in onis today",
+                      children: "Go to marketplace",
                     }),
                   }),
                 ],
@@ -25547,9 +25547,7 @@
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "chief executive officer",
-                      (0, Ze.jsx)("br", {}),
-                      "head of oni research department",
+                      "Chief Executive Officer",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
@@ -25582,15 +25580,13 @@
                 children: [
                   (0, Ze.jsx)("p", {
                     className: "teamintro",
-                    children: "with the help of",
+                    children: "Co funded by",
                   }),
-                  (0, Ze.jsx)("h2", { className: "onih2", children: "Dominic" }),
+                  (0, Ze.jsx)("h2", { className: "onih2", children: "Dionise" }),
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "chief operating officer",
-                      (0, Ze.jsx)("br", {}),
-                      "head of oni resources",
+                      "Chief Technology Officer",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
@@ -25623,15 +25619,13 @@
                 children: [
                   (0, Ze.jsx)("p", {
                     className: "teamintro",
-                    children: "with the help of",
+                    children: "Co funded by",
                   }),
-                  (0, Ze.jsx)("h2", { className: "onih2", children: "Manuel" }),
+                  (0, Ze.jsx)("h2", { className: "onih2", children: "Max Cap" }),
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "chief operating officer",
-                      (0, Ze.jsx)("br", {}),
-                      "head of oni resources",
+                      "Chief Marketing Officer",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
@@ -25670,9 +25664,7 @@
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "chief operating officer",
-                      (0, Ze.jsx)("br", {}),
-                      "head of oni resources",
+                      "HR Manager",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
@@ -25891,7 +25883,7 @@
                 */
                 (0, Ze.jsxs)("h3", {
                   className: "onih3",
-                  children: "Invest in Onis today!"
+                  children: "Go to marketplace!"
                 })
               ]
             }),

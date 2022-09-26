@@ -5,7 +5,7 @@ svg {
 }
 @font-face {
   font-family: aptosDegensFont;
-  src: url(../media/GoatskinBrush_PersonalUse.ttf);
+  src: url(../media/AptosDegensFont.ttf);
 }
 
 .topTitle {
@@ -11579,11 +11579,6 @@ fieldset:disabled .btn {
     border-radius: 6px !important;
   }
   .navbar-collapse a .button:focus,
-  .navbar-collapse a .button:hover {
-    -webkit-text-fill-color: var(--themecolour);
-    -webkit-text-stroke-color: var(--themecolour);
-    background: transparent;
-  }
   .onih0 {
     font-size: 4rem;
   }
