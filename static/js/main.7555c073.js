@@ -12388,10 +12388,10 @@
                     href: "https://twitter.com/",
                     children: "Twitter",
                   }),
-                  (0, Ze.jsx)(Z, {
-                    to: "/mint",
+                  (0, Ze.jsx)("a", {
                     children: (0, Ze.jsx)(Rr, {
                       className: "button mint-nav-button",
+                      href: "https://bluemove.net/",
                       children: "Invest in onis today",
                     }),
                   }),
@@ -25805,10 +25805,12 @@
                     (0, Ze.jsx)("button", {
                       id: "minting-button-id",
                       class: "clone-rampp-minting-button",
-                      children: window.martian && window.martian._isConnected ? "Mint" : "Connect",
+                      // children: window.martian && window.martian._isConnected ? "Mint" : "Connect",
+                      children: "Mint on Bluemove",
                       onClick: function (e) {
                         // var s = document.getElementById("minting-button-id")
-                        console.log("doing")
+                        window.location.replace("https://bluemove.net/")
+                        return
 
                         window.martian.connect()
                           .then(x => {
@@ -25833,18 +25835,22 @@
                           })
                       },
                     }),
+                    /*
                     (0, Ze.jsx)("input", {
                       id: "id-mint-quantity",
                       class: "clone-rampp-mint-quantity",
                       type: "number",
                       placeholder: "1",
                     })
+                    */
                   ]
                 }),
+                /*
                 (0, Ze.jsxs)("div", {
                   className: "minting-amount",
                   children: "minted .... 0/200"
                 }),
+                */
                 (0, Ze.jsxs)("h3", {
                   className: "onih3",
                   children: "Invest in Onis today!"
