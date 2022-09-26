@@ -15,13 +15,14 @@ svg {
   max-width: 95% !important;
 }
 .navbar a {
-  color: #a9a9a9;
+  color: #f9f9f9;
   font-weight: 500;
   text-decoration: none;
   text-transform: uppercase;
 }
 .navbar a:hover {
-  color: var(--themecolour);
+  color: white;
+  text-shadow: -0.6px 0 white, 0 0.6px white, 0.6px 0 white, 0 -0.6px white;
 }
 .button,
 .navbar .button {
@@ -112,8 +113,16 @@ nav ul li {
   margin: 0 10px;
 }
 .headerlogo {
+  background-color: #06350b;
+  padding: 0.4em;
+  border-radius: 10px;
   display: flex;
   flex-direction: row;
+}
+.mint-nav-button {
+  background-color: #06350b !important;
+  padding: 1em !important;
+  border-radius: 6px !important;
 }
 .color-button {
   display: flex;
@@ -235,7 +244,7 @@ body.dark {
 .noise {
   -webkit-animation: bg-animation 0.2s infinite;
   animation: bg-animation 0.2s infinite;
-  background: transparent url(../../static/media/noise.1690cd3defa001b4f87e.png)
+  background: transparent url(../../static/media/noise.png)
     repeat 0 0;
   background-repeat: repeat;
   bottom: -50%;
@@ -356,7 +365,7 @@ body.dark {
   max-width: 95% !important;
 }
 .Hero {
-  background-image: url(../../static/media/hero.bb86b90320157464fc46.png);
+  background-image: url(../../static/media/hero.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -7703,6 +7712,7 @@ fieldset:disabled .btn {
   position: fixed;
   right: 0;
   z-index: 1030;
+  background-color: rgb(46 216 167);
 }
 .fixed-bottom {
   bottom: 0;

@@ -48,5 +48,5 @@ function SvgNftcalendar(_ref, svgRef) {
 }
 
 var ForwardRef = /*#__PURE__*/React.forwardRef(SvgNftcalendar);
-export default __webpack_public_path__ + "static/media/nftcalendar.4c36a7a98cd830cc1c96f9f3d925aa74.svg";
+export default __webpack_public_path__ + "static/media/nftcalendar.svg";
 export { ForwardRef as ReactComponent };

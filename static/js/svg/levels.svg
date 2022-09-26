@@ -81,5 +81,5 @@ function SvgLevels(_ref, svgRef) {
 }
 
 var ForwardRef = /*#__PURE__*/React.forwardRef(SvgLevels);
-export default __webpack_public_path__ + "static/media/levels.9723f6f194a961f102046d64a8f8254f.svg";
+export default __webpack_public_path__ + "static/media/levels.svg";
 export { ForwardRef as ReactComponent };

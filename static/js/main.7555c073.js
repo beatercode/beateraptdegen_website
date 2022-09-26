@@ -12374,17 +12374,17 @@
                         ? document.body.classList.remove('dark')
                         : document.body.classList.add('dark')
                     },
-                    children: "THEME"
+                    children: "🌤️"
                   }),
                   (0, Ze.jsx)(Z, { to: "/", children: "Home" }),
                   (0, Ze.jsx)("a", {
-                    href: "https://twitter.com/OninousProject",
+                    href: "https://twitter.com/",
                     children: "Twitter",
                   }),
                   (0, Ze.jsx)(Z, {
                     to: "/mint",
                     children: (0, Ze.jsx)(Rr, {
-                      className: "button",
+                      className: "button mint-nav-button",
                       children: "Invest in onis today",
                     }),
                   }),
@@ -19582,7 +19582,7 @@
           }),
         });
       },
-        Yd = n.p + "static/media/oniparts.f72dba9da4a4f8612f14.webm";
+        Yd = n.p + "static/media/nftparts.webm";
       var qd = function () {
         return (0, Ze.jsx)("div", {
           className: "oniparts",
@@ -24935,11 +24935,11 @@
         );
       });
       Sp.displayName = "SwiperSlide";
-      var Cp = n.p + "static/media/warlord.9da5f19112afdfc0edb6.jpg",
-        kp = n.p + "static/media/soulstealer.3810261fe1dc20acfad9.jpg",
-        Tp = n.p + "static/media/shadowassassin.368d9e257f70bf360868.jpg",
-        Pp = n.p + "static/media/almighty.52f5f37eb505f5a2ccbb.jpg",
-        jp = n.p + "static/media/silenced.a0099c1aae0272ca8faa.jpg";
+      var Cp = n.p + "static/media/warlord.jpg",
+        kp = n.p + "static/media/soulstealer.jpg",
+        Tp = n.p + "static/media/shadowassassin.jpg",
+        Pp = n.p + "static/media/almighty.jpg",
+        jp = n.p + "static/media/silenced.jpg";
       var Op = function () {
         return (0, Ze.jsxs)("div", {
           className: "oniexamples",
@@ -25380,7 +25380,7 @@
           }),
         });
       };
-      var Np = n.p + "static/media/levels.9723f6f194a961f102046d64a8f8254f.svg";
+      var Np = n.p + "static/media/levels.svg";
       var Lp = function () {
         return (0, Ze.jsx)(Mr, {
           className: "Park",
@@ -25511,7 +25511,7 @@
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://instagram.com/mr_barghest",
+                    href: "https://instagram.com/",
                     children: "Instagram",
                   }),
                 ],
@@ -25552,7 +25552,7 @@
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://www.instagram.com/sqvires/",
+                    href: "https://www.instagram.com/",
                     children: "Instagram",
                   }),
                 ],
@@ -25593,7 +25593,7 @@
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://www.instagram.com/sqvires/",
+                    href: "https://www.instagram.com/",
                     children: "Instagram",
                   }),
                 ],
@@ -25634,7 +25634,7 @@
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://www.instagram.com/sqvires/",
+                    href: "https://www.instagram.com/",
                     children: "Instagram",
                   }),
                 ],
@@ -25652,7 +25652,7 @@
         });
       };
       var _p =
-        n.p + "static/media/nftcalendar.4c36a7a98cd830cc1c96f9f3d925aa74.svg";
+        n.p + "static/media/nftcalendar.svg";
       var Rp = function () {
         return (0, Ze.jsx)(Mr, {
           className: "featured",
@@ -25688,7 +25688,7 @@
                   }),
                   (0, Ze.jsx)("div", { className: "divider" }),
                   (0, Ze.jsx)("a", {
-                    href: "https://twitter.com/OninousProject",
+                    href: "https://twitter.com/",
                     children: (0, Ze.jsx)("h1", {
                       className: "onih1",
                       children: "FOLLOW US ON TWITTER",
@@ -25775,7 +25775,7 @@
           }),
         });
       },
-        Ip = n.p + "static/media/mintingbg.b46996afc17391777a2a.webm";
+        Ip = n.p + "static/media/mintingbg.webm";
       var Fp = function () {
         return (0, Ze.jsxs)("div", {
           className: "mintbody",
