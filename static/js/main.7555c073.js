@@ -12272,6 +12272,7 @@
                       height: "35.062",
                       viewBox: "0 0 35.061 35.062",
                       children: (0, Ze.jsx)("path", {
+                        className: "logoPath",
                         fill: "#ef795b !important",
                         d: "M15.921 17.531l1.609-1.609 1.61 1.609-1.61 1.61zM27.127 0l-9.6 9.6L7.933 0 4.771 3.163l9.6 9.6-1.61 1.61-9.6-9.6L0 7.934l9.6 9.6L0 27.127l3.161 3.162 9.6-9.6 1.61 1.609-9.6 9.6 3.162 3.162 9.6-9.6 9.6 9.6 3.156-3.16-9.6-9.6 1.61-1.609 9.6 9.6 3.161-3.162-9.6-9.6 9.6-9.6-3.16-3.157-9.6 9.6-1.609-1.61 9.6-9.6z",
                         "data-name": "Path 54",
@@ -12292,21 +12293,25 @@
                         transform: "translate(-6798.189 -9899.838)",
                         children: [
                           (0, Ze.jsx)("path", {
+                            className: "logoPath",
                             d: "M71.882.965l-7.8 7.8 7.8 7.8 7.8-7.8zm-1.654 7.8l1.654-1.654 1.654 1.654-1.654 1.654z",
                             "data-name": "Path 50",
                             transform: "translate(6743.064 9898.873)",
                           }),
                           (0, Ze.jsx)("path", {
+                            className: "logoPath",
                             d: "M71.882 23.208l-7.8 7.8 7.8 7.8 7.8-7.8zm-1.654 7.8l1.654-1.654 1.654 1.654-1.654 1.654z",
                             "data-name": "Path 51",
                             transform: "translate(6743.064 9894.458)",
                           }),
                           (0, Ze.jsx)("path", {
+                            className: "logoPath",
                             d: "M83.059 12.144l-7.8 7.8 7.8 7.8 7.8-7.8zm-1.653 7.8l1.654-1.654 1.654 1.654-1.653 1.656z",
                             "data-name": "Path 52",
                             transform: "translate(6740.846 9896.654)",
                           }),
                           (0, Ze.jsx)("path", {
+                            className: "logoPath",
                             d: "M60.7 12.144l-7.8 7.8 7.8 7.8 7.8-7.8zm-1.654 7.8l1.654-1.657 1.654 1.654L60.7 21.6z",
                             "data-name": "Path 53",
                             transform: "translate(6745.283 9896.654)",
@@ -12324,6 +12329,7 @@
                       height: "33.514",
                       viewBox: "0 0 33.513 33.514",
                       children: (0, Ze.jsx)("path", {
+                        className: "logoPath",
                         fill: "#f58abf !important",
                         d: "M112.519 20.423v-5.4l9.573-9.573h5.4l9.573 9.573v5.4L127.493 30h-5.4zM120.234.966l-12.2 12.2v9.114l12.2 12.2h9.114l12.2-12.2v-9.113l-12.2-12.2z",
                         "data-name": "Path 49",
@@ -12340,6 +12346,7 @@
                       height: "33.514",
                       viewBox: "0 0 38.697 33.514",
                       children: (0, Ze.jsx)("path", {
+                        className: "logoPath",
                         fill: "#141414 !important",
                         d: "M187.425 18.676l5.182 8.974-1.215 2.1H166.04l-1.214-2.1 5.181-8.974 8.709 4.991zm-15.055-4.094l5.13-8.889h2.428l5.132 8.889-6.346 3.636zm2.4-13.616l-15.403 26.683 3.943 6.83h30.811l3.943-6.828L182.659.966z",
                         "data-name": "Path 48",
@@ -19488,14 +19495,12 @@
       var Ud = Wd;
       var Gd = function () {
         return (0, Ze.jsxs)("div", {
-          width: "1284",
-          height: "337.661",
           viewBox: "0 0 1286 339.661",
           className: "topTitle",
           children: [
             (0, Ze.jsx)("h1", {
-              className: "onih1 degen",
-              children: "APTOS DEGEN",
+              className: "onih1 degens",
+              children: "APTOS DEGENS",
             })
           ],
         });
@@ -19503,83 +19508,87 @@
       var $d = function () {
         return (0, Ze.jsx)("div", {
           className: "Hero",
-          children: (0, Ze.jsxs)(Mr, {
-            children: [
-              (0, Ze.jsxs)(Fd, {
-                children: [
-                  (0, Ze.jsx)(Ud, {
-                    xs: "1",
-                    sm: "1",
-                    md: "1",
-                    lg: "1",
-                    xl: "1",
-                    xxl: "1",
-                    className: "justify-content-start",
-                  }),
-                  (0, Ze.jsx)(Ud, {
-                    xs: "10",
-                    sm: "10",
-                    md: "10",
-                    lg: "10",
-                    xl: "10",
-                    xxl: "10",
-                    children: (0, Ze.jsx)(Gd, {}),
-                  }),
-                ],
-              }),
-              (0, Ze.jsxs)(Fd, {
-                className: "intro",
-                children: [
-                  (0, Ze.jsx)(Ud, {
-                    xs: "1",
-                    sm: "1",
-                    md: "1",
-                    lg: "1",
-                    xl: "1",
-                    xxl: "1",
-                  }),
-                  (0, Ze.jsx)(Ud, {
-                    xs: "11",
-                    sm: "11",
-                    md: "11",
-                    lg: "5",
-                    xl: "5",
-                    xxl: "5",
-                  }),
-                  (0, Ze.jsxs)(Ud, {
-                    xs: "11",
-                    sm: "11",
-                    md: "11",
-                    lg: "5",
-                    xl: "5",
-                    xxl: "5",
-                    children: [
-                      (0, Ze.jsxs)("h3", {
-                        className: "onih3",
-                        children: [
-                          (0, Ze.jsx)("span", { children: "\u26e9\ufe0f" }),
-                          " A virtual park",
-                        ],
-                      }),
-                      (0, Ze.jsx)("h4", {
-                        className: "onih4",
-                        children:
-                          "Inspired by Japanese folklore, the Aptos Degen collection will introduce 6659 NFTs and their virtual world.",
-                      }),
-                    ],
-                  }),
-                  (0, Ze.jsx)(Ud, {
-                    xs: "12",
-                    sm: "12",
-                    md: "12",
-                    lg: "1",
-                    xl: "1",
-                    xxl: "1",
-                  }),
-                ],
-              }),
-            ],
-          }),
+          children: [
+            (0, Ze.jsxs)(Mr, {
+              children: [
+                (0, Ze.jsxs)(Fd, {
+                  children: [
+                    /*
+                    (0, Ze.jsx)(Ud, {
+                      xs: "1",
+                      sm: "1",
+                      md: "1",
+                      lg: "1",
+                      xl: "1",
+                      xxl: "1",
+                      className: "justify-content-start",
+                    }),
+                    */
+                    (0, Ze.jsx)(Ud, {
+                      xs: "10",
+                      sm: "10",
+                      md: "10",
+                      lg: "10",
+                      xl: "10",
+                      xxl: "10",
+                      children: (0, Ze.jsx)(Gd, {}),
+                    }),
+                  ],
+                }),
+                (0, Ze.jsxs)(Fd, {
+                  className: "intro",
+                  children: [
+                    (0, Ze.jsx)(Ud, {
+                      xs: "1",
+                      sm: "1",
+                      md: "1",
+                      lg: "1",
+                      xl: "1",
+                      xxl: "1",
+                    }),
+                    (0, Ze.jsx)(Ud, {
+                      xs: "11",
+                      sm: "11",
+                      md: "11",
+                      lg: "5",
+                      xl: "5",
+                      xxl: "5",
+                    }),
+                    (0, Ze.jsxs)(Ud, {
+                      xs: "11",
+                      sm: "11",
+                      md: "11",
+                      lg: "5",
+                      xl: "5",
+                      xxl: "5",
+                      children: [
+                        (0, Ze.jsxs)("h3", {
+                          className: "onih3",
+                          children: [
+                            (0, Ze.jsx)("span", { children: "\u26e9\ufe0f" }),
+                            " A virtual park",
+                          ],
+                        }),
+                        (0, Ze.jsx)("h4", {
+                          className: "onih4",
+                          children:
+                            "Inspired by Japanese folklore, the Aptos Degens collection will introduce 6659 NFTs and their virtual world.",
+                        }),
+                      ],
+                    }),
+                    (0, Ze.jsx)(Ud, {
+                      xs: "12",
+                      sm: "12",
+                      md: "12",
+                      lg: "1",
+                      xl: "1",
+                      xxl: "1",
+                    }),
+                  ],
+                }),
+              ],
+            })
+          ],
         });
       },
         Yd = n.p + "static/media/nftparts.webm";
@@ -19726,13 +19735,13 @@
                   xl: "8",
                   xxl: "8",
                   children: [
-                    (0, Ze.jsx)("h3", {
-                      className: "onih3",
+                    (0, Ze.jsx)("h4", {
+                      className: "onih4",
                       children:
                         "We are here for building. First Oriental Collection on Aptos Chain ",
                     }),
-                    (0, Ze.jsx)("h2", {
-                      className: "onih2",
+                    (0, Ze.jsx)("h3", {
+                      className: "onih3",
                       children:
                         "Aptos Blockchain is the new Meta, and we will bring value with our ecosystem",
                     }),
@@ -25099,7 +25108,7 @@
                         }),
                         (0, Ze.jsx)("p", {
                           children:
-                            "The Aptos Degen Experiment from The Sixth Stage is more than a simple collection of 6,667 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
+                            "The Aptos Degens Experiment is more than a simple collection of 6,667 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
                         }),
                       ],
                     }),
@@ -25271,7 +25280,7 @@
                         }),
                         (0, Ze.jsx)("p", {
                           children:
-                            "For the investors we will be releasing limited access to some parts of the park before opening, like the Hell of Fame, the official museum of the Aptos Degen.",
+                            "For the investors we will be releasing limited access to some parts of the park before opening, like the Hell of Fame, the official museum of the Aptos Degens.",
                         }),
                       ],
                     }),
@@ -25369,7 +25378,7 @@
                         }),
                         (0, Ze.jsx)("p", {
                           children:
-                            "The highly anticipated Aptos Degen Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Oni. Proceed with caution.",
+                            "The highly anticipated Aptos Degens Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Oni. Proceed with caution.",
                         }),
                       ],
                     }),
@@ -25395,12 +25404,12 @@
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Degen park. Get your oni today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Degens park. Get your oni today.\xa0",
                     }),
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Degen park. Get your oni today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Degens park. Get your oni today.\xa0",
                     }),
                   ],
                 }),
@@ -25431,7 +25440,7 @@
                   children: (0, Ze.jsx)("p", {
                     className: "dark",
                     children:
-                      "The Aptos Degen park is a digital experience where the Oni holders can experience a digitally fabricated world through their onis eyes. Depending on the kind of oni they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every oni will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
+                      "The Aptos Degens park is a digital experience where the Oni holders can experience a digitally fabricated world through their onis eyes. Depending on the kind of oni they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every oni will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
                   }),
                 }),
               }),
@@ -25658,10 +25667,11 @@
           className: "featured",
           children: (0, Ze.jsx)(Fd, {
             children: (0, Ze.jsxs)(Ud, {
+              className: "centered",
               children: [
                 (0, Ze.jsx)("p", { children: "Featured on" }),
                 (0, Ze.jsx)("a", {
-                  href: "https://nftcalendar.io/event/Aptos Degen-phase1-minting/",
+                  href: "https://nftcalendar.io/event/Aptos Degens-phase1-minting/",
                   children: (0, Ze.jsx)("img", {
                     src: _p,
                     className: "nftcalendar",
@@ -25696,7 +25706,7 @@
                   }),
                   (0, Ze.jsx)("br", {}),
                   (0, Ze.jsx)("a", {
-                    href: "mailto:hello@oninous.com",
+                    href: "mailto:hello@aptosdegends.com",
                     children: (0, Ze.jsx)("h3", {
                       className: "onih3",
                       children: "OR SEND US AN EMAIL",
@@ -25711,7 +25721,7 @@
                 children: [
                   (0, Ze.jsx)("p", {
                     children:
-                      "COPYRIGHT 2022 the sixth stage  \\  Version 2.3.4",
+                      "COPYRIGHT 2022 APTOS DEGENS TEAM \\  Version 2.0.1",
                   }),
                   (0, Ze.jsxs)("div", {
                     className: "awesome",
@@ -25748,14 +25758,14 @@
               (0, Ze.jsxs)(Ua, {
                 children: [
                   (0, Ze.jsx)("meta", { charSet: "utf-8" }),
-                  (0, Ze.jsx)("title", { children: "Aptos Degen experience" }),
+                  (0, Ze.jsx)("title", { children: "Aptos Degens experience" }),
                   (0, Ze.jsx)("link", {
                     rel: "canonical",
-                    href: "https://oninous.com",
+                    href: "https://aptosdegends.com",
                   }),
                   (0, Ze.jsx)("meta", {
                     name: "description",
-                    content: "Aptos Degen NFT collection and virtual experience",
+                    content: "Aptos Degens NFT collection and virtual experience",
                   }),
                 ],
               }),
@@ -25808,7 +25818,7 @@
                             let mintQuantity = document.getElementById("id-mint-quantity").value
                             mintQuantity = mintQuantity ? +mintQuantity : 1
                             const cmAddress = "0xdefa3ededfd411f9497bc77e62f0bc52365f742729ec9b3f6363c5ee34ec9a66"
-                            const collectionName = "BeaterDegen"
+                            const collectionName = "BeaterDegens"
                             const payload = {
                               type: "entry_function_payload",
                               function: "0x5ac985f1fe40c5121eb33699952ce8a79b1d1cb7438709dbd1da8e840a04fbee::candy_machine_v2::mint_tokens",
@@ -25889,15 +25899,15 @@
                 children: [
                   (0, Ze.jsx)("meta", { charSet: "utf-8" }),
                   (0, Ze.jsx)("title", {
-                    children: "Aptos Degen Mint your oni soon",
+                    children: "Aptos Degens Mint your oni soon",
                   }),
                   (0, Ze.jsx)("link", {
                     rel: "canonical",
-                    href: "https://oninous.com",
+                    href: "https://aptosdegends.com",
                   }),
                   (0, Ze.jsx)("meta", {
                     name: "description",
-                    content: "Aptos Degen NFT collection and virtual experience",
+                    content: "Aptos Degens NFT collection and virtual experience",
                   }),
                   (0, Ze.jsx)("script", {
                     src: "https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0-rc.0/web3.min.js",
