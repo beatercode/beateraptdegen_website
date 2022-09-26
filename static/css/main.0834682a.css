@@ -3,11 +3,17 @@
 svg {
   width: 140px;
 }
+@font-face {
+  font-family: aptosDegensFont;
+  src: url(../media/Bento-2OXaW.otf);
+}
+
 .topTitle {
   margin-top: 15vh;
   text-align: center;
 }
 .degens {
+  font-family: 'aptosDegensFont' !important;
   color: var(--themecolour);
   letter-spacing: 5px;
 }
