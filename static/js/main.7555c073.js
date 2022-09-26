@@ -19758,15 +19758,6 @@
           children: (0, Ze.jsx)(Mr, {
             children: (0, Ze.jsxs)(Fd, {
               children: [
-                (0, Ze.jsx)(Ud, {
-                  xs: "1",
-                  sm: "1",
-                  md: "1",
-                  lg: "1",
-                  xl: "1",
-                  xxl: "1",
-                  className: "justify-content-start",
-                }),
                 (0, Ze.jsxs)(Ud, {
                   xs: "12",
                   sm: "12",

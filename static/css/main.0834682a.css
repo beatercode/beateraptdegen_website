@@ -21,6 +21,9 @@ svg {
   border-radius: 8px;
   position: absolute;
 }
+.swiper-slide {
+  margin-right: 15px !important;
+}
 .topTitle {
   margin-top: 15vh;
   text-align: center;
@@ -11564,6 +11567,9 @@ fieldset:disabled .btn {
   color: var(--bodybg);
 }
 @media only screen and (max-width: 600px) {
+  .imageClassTag {
+    visibility: hidden; 
+  }
   .roadmap-title-phases {
     font-size: 4em;
   }
