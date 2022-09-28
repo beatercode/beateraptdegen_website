@@ -19,11 +19,11 @@ function Mint() {
       >
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Aptos Degens Mint your oni soon</title>
-          <link rel="canonical" href="https://aptosdegends.com" />
+          <title>Aptos Shoguns Mint your oni soon</title>
+          <link rel="canonical" href="https://aptosshoguns.com" />
           <meta
             name="description"
-            content="Aptos Degens NFT collection and virtual experience"
+            content="Aptos Shoguns NFT collection and virtual experience"
           />
           <script
             src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0-rc.0/web3.min.js"
