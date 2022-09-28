@@ -25513,46 +25513,62 @@
                 xxl: "6",
                 className: "parktext",
                 children: (0, Ze.jsx)("div", {
-                  children: [(0, Ze.jsx)("p", {
-                    className: "dark",
-                    children:
-                      `Create Artworks & Build Tech\n
-                      Build Community\n
-                      Promotion and Collaborations\n
-                      Launch Minting on testnet\n
-                      Launch Minting on mainnet(Shogun Release)\n
-                      Aptos DAO with 50% mint proceeds\n
-                      Launch Shogun 2.0\n
-                      PARK RELEASE\n
-                      NFT Airdrops for Shogun holders\n
-                      More Details coming soon`,
-                  }),
-                  (0, Ze.jsx)("ol", {
-                    className: "rectangle-list",
-                    children: [
-                      (0, Ze.jsx)("li", {
-                        children: (0, Ze.jsx)("a", {
-                          href: "",
-                          children: "ITEM"
+                  children: [
+                    (0, Ze.jsx)("ol", {
+                      className: "rectangle-list",
+                      children: [
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Create Artworks & Build Tech"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Build Community"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Promotion and Collaborations"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Launch Minting on testnet"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Launch Minting on mainnet (Shogun Release)"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Aptos DAO with 50% mint proceeds"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "Launch Shogun 2.0"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "PARK RELEASE"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "NFT Airdrops for Shogun holders"
+                          })
+                        }),
+                        (0, Ze.jsx)("li", {
+                          children: (0, Ze.jsx)("a", {
+                            children: "More Details coming soon"
+                          })
                         })
-
-                      }),
-                      (0, Ze.jsx)("li", {
-                        children: (0, Ze.jsx)("a", {
-                          href: "",
-                          children: "ITEM"
-                        })
-
-                      }),
-                      (0, Ze.jsx)("li", {
-                        children: (0, Ze.jsx)("a", {
-                          href: "",
-                          children: "ITEM"
-                        })
-
-                      })
-                    ]
-                  })]
+                      ]
+                    })]
                 }),
               }),
               (0, Ze.jsx)(Ud, {
