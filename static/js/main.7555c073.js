@@ -25507,15 +25507,15 @@
                   children: (0, Ze.jsx)("p", {
                     className: "dark",
                     children:
-                      `Create Artworks & Build Tech
-                      Build Community 
-                      Promotion and Collaborations
-                      Launch Minting on testnet
-                      Launch Minting on mainnet(Shogun Release)
-                      Aptos DAO with 50% mint proceeds
-                      Launch Shogun 2.0
-                      PARK RELEASE
-                      NFT Airdrops for Shogun holders
+                      `Create Artworks & Build Tech\n
+                      Build Community\n
+                      Promotion and Collaborations\n
+                      Launch Minting on testnet\n
+                      Launch Minting on mainnet(Shogun Release)\n
+                      Aptos DAO with 50% mint proceeds\n
+                      Launch Shogun 2.0\n
+                      PARK RELEASE\n
+                      NFT Airdrops for Shogun holders\n
                       More Details coming soon`,
                   }),
                 }),
