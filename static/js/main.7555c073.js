@@ -12387,7 +12387,7 @@
                   */
                   (0, Ze.jsx)(Z, { to: "/", children: "Home" }),
                   (0, Ze.jsx)("a", {
-                    href: "https://twitter.com/",
+                    href: "https://twitter.com/aptos_shogun",
                     children: "Twitter",
                   }),
                   (0, Ze.jsx)("a", {
@@ -25860,13 +25860,13 @@
             children: (0, Ze.jsxs)(Ud, {
               className: "centered",
               children: [
-                (0, Ze.jsx)("p", { children: "Featured on" }),
+                (0, Ze.jsx)("p", { children: "Powered by" }),
                 (0, Ze.jsx)("a", {
-                  href: "https://nftcalendar.io/event/Aptos Shoguns-phase1-minting/",
-                  children: (0, Ze.jsx)("img", {
-                    src: _p,
-                    className: "nftcalendar",
-                    alt: "NFT Calendar logo",
+                  className: "onih2 custom-aptos-link",
+                  href: "https://aptoslabs.com/",
+                  children: (0, Ze.jsx)("h2", {
+                    className: "onih2 custom-aptos-link",
+                    children: "APTOS"
                   }),
                 }),
               ],
@@ -25888,19 +25888,20 @@
                     children: "STAY UPDATED",
                   }),
                   (0, Ze.jsx)("div", { className: "divider" }),
+                  (0, Ze.jsx)("hr", {}),
                   (0, Ze.jsx)("a", {
-                    href: "https://twitter.com/",
-                    children: (0, Ze.jsx)("h1", {
-                      className: "onih1",
+                    href: "https://twitter.com/aptos_shogun",
+                    children: (0, Ze.jsx)("h3", {
+                      className: "onih3 nopad",
                       children: "FOLLOW US ON TWITTER",
                     }),
                   }),
-                  (0, Ze.jsx)("br", {}),
+                  (0, Ze.jsx)("div", { className: "small-divider" }),
                   (0, Ze.jsx)("a", {
-                    href: "mailto:hello@aptosshoguns.com",
+                    href: "https://discord.gg/NqvJusnwk4",
                     children: (0, Ze.jsx)("h3", {
-                      className: "onih3",
-                      children: "OR SEND US AN EMAIL",
+                      className: "onih3 nopad",
+                      children: "JOIN OUR DISCORD",
                     }),
                   }),
                 ],

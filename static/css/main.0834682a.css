@@ -7,6 +7,12 @@ svg {
   font-family: aptosShogunsFont;
   src: url(../media/AptosShogunsFont.ttf);
 }
+.custom-aptos-link {
+  font-family: 'aptosShogunsFont' !important;
+  color: var(--themecolour);
+  letter-spacing: 2px;
+  text-decoration: none !important;
+}
 .imageClassTag > a {
   font-weight: 700;
   letter-spacing: -2px;
@@ -5137,6 +5143,13 @@ fieldset:disabled .btn {
 }
 .dropstart .dropdown-toggle:before {
   vertical-align: 0;
+}
+.small-divider {
+  padding: 0;
+}
+.nopad {
+  padding: 0 !important;
+  margin: 0 !important;
 }
 .dropdown-divider {
   border-top: 1px solid rgba(0, 0, 0, 0.15);
