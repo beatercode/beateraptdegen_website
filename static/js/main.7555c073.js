@@ -25891,18 +25891,32 @@
                   (0, Ze.jsx)("hr", {}),
                   (0, Ze.jsx)("a", {
                     href: "https://twitter.com/aptos_shogun",
-                    children: (0, Ze.jsx)("h3", {
-                      className: "onih3 nopad",
-                      children: "FOLLOW US ON TWITTER",
-                    }),
+                    children: [
+                      (0, Ze.jsx)("i", {
+                        className: "fa-brands fa-twitter fa-2xl"
+                      }),
+                      (0, Ze.jsx)("a", {
+                        children: (0, Ze.jsx)("h3", {
+                          className: "onih3 nopad",
+                          children: "FOLLOW US ON TWITTER",
+                        }),
+                      }),
+                    ]
                   }),
                   (0, Ze.jsx)("div", { className: "small-divider" }),
                   (0, Ze.jsx)("a", {
                     href: "https://discord.gg/NqvJusnwk4",
-                    children: (0, Ze.jsx)("h3", {
-                      className: "onih3 nopad",
-                      children: "JOIN OUR DISCORD",
-                    }),
+                    children: [
+                      (0, Ze.jsx)("i", {
+                        className: "fa-brands fa-discord fa-2xl"
+                      }),
+                      (0, Ze.jsx)("a", {
+                        children: (0, Ze.jsx)("h3", {
+                          className: "onih3 nopad",
+                          children: "JOIN OUR DISCORD",
+                        }),
+                      }),
+                    ]
                   }),
                 ],
               }),
