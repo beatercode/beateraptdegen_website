@@ -19501,8 +19501,8 @@
           className: "topTitle",
           children: [
             (0, Ze.jsx)("h1", {
-              className: "onih1 shoguns",
-              children: "APTOS SHOGUNS",
+              className: "onih1 shogun",
+              children: "APTOS SHOGUN",
             })
           ],
         });
@@ -19574,7 +19574,7 @@
                         (0, Ze.jsx)("h4", {
                           className: "onih4",
                           children:
-                            "Influenced by the ancient chronicles of Japan, Aptos Shoguns Collection is a collection of 6659 Shoguns and their virtual world.",
+                            "Influenced by the ancient chronicles of Japan, Aptos Shogun Collection is a collection of 6659 Shogun and their virtual world.",
                         }),
                       ],
                     }),
@@ -25099,7 +25099,7 @@
                       children: [
                         (0, Ze.jsx)("div", {
                           className: "roadmap-title-phases",
-                          children: "SHOGUNS",
+                          children: "SHOGUN",
                         }),
                         (0, Ze.jsx)("div", {
                           className: "roadmap-title-phases",
@@ -25166,7 +25166,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            "The Aptos Shoguns Experiment is more than a simple collection of 6,659 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
+                            "The Aptos Shogun Experiment is more than a simple collection of 6,659 NFTs. The NFT is simply a shell that allows you to enter into a virtual world where you will experience everything as a different person.",
                         }),
                       ],
                     }),
@@ -25198,7 +25198,7 @@
                       children: [
                         (0, Ze.jsx)("div", {
                           className: "roadmap-title-phases",
-                          children: "SHOGUNS",
+                          children: "SHOGUN",
                         }),
                         (0, Ze.jsx)("div", {
                           className: "roadmap-title-phases",
@@ -25255,7 +25255,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            'To be able to discover the park throughout the eyes of your Shoguns, we are delivering a 2.0 version to all owners. This will include a body and some other updates in the Shogun mechanics. We will do some polish in their behaviour as well, because some of them tend to be a little "disobedient".',
+                            'To be able to discover the park throughout the eyes of your Shogun, we are delivering a 2.0 version to all owners. This will include a body and some other updates in the Shogun mechanics. We will do some polish in their behaviour as well, because some of them tend to be a little "disobedient".',
                         }),
                       ],
                     }),
@@ -25360,7 +25360,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            "For the investors we will be releasing limited access to some parts of the park before opening, like the Hell of Fame, the official museum of the Aptos Shoguns.",
+                            "For the investors we will be releasing limited access to some parts of the park before opening, like the Hell of Fame, the official museum of the Aptos Shogun.",
                         }),
                       ],
                     }),
@@ -25469,7 +25469,7 @@
                         (0, Ze.jsx)("p", {
                           className: "roadmap-p-phases",
                           children:
-                            "The highly anticipated Aptos Shoguns Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Shoguns. Proceed with caution.",
+                            "The highly anticipated Aptos Shogun Park will open it's gates and all hell will break loose shortly after. Come and discover the park through the eyes of your Shogun. Proceed with caution.",
                         }),
                       ],
                     }),
@@ -25492,7 +25492,7 @@
                 className: "wrapper",
                 children: (0, Ze.jsx)("h1", {
                   className: "onih1 theme-letterborder dao-section-title",
-                  children: "SHOGUNS ROADMAP",
+                  children: "SHOGUN ROADMAP",
                 }),
               }),
               (0, Ze.jsx)(Ud, {
@@ -25582,7 +25582,7 @@
                 children: (0, Ze.jsx)("img", {
                   src: Nx,
                   className: "daoImage",
-                  alt: "Shoguns Release",
+                  alt: "Shogun Release",
                 }),
               }),
             ],
@@ -25603,12 +25603,12 @@
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Shoguns park. Get your Shoguns today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Shogun park. Get your Shogun today.\xa0",
                     }),
                     (0, Ze.jsx)("h2", {
                       className: "theme-letterborder",
                       children:
-                        "Experience loneliness together. Introducing the Aptos Shoguns park. Get your Shoguns today.\xa0",
+                        "Experience loneliness together. Introducing the Aptos Shogun park. Get your Shogun today.\xa0",
                     }),
                   ],
                 }),
@@ -25624,7 +25624,7 @@
                 children: (0, Ze.jsx)("img", {
                   src: Np,
                   className: "levelimage",
-                  alt: "Shoguns Release",
+                  alt: "Shogun Release",
                 }),
               }),
               (0, Ze.jsx)(Ud, {
@@ -25639,7 +25639,7 @@
                   children: (0, Ze.jsx)("p", {
                     className: "dark",
                     children:
-                      "The Aptos Shoguns park is a digital experience where the Shoguns holders can experience a digitally fabricated world through their eyes. Depending on the kind of Shogun they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every Shogun will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
+                      "The Aptos Shogun park is a digital experience where the Shogun holders can experience a digitally fabricated world through their eyes. Depending on the kind of Shogun they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every Shogun will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
                   }),
                 }),
               }),
@@ -25713,7 +25713,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Executive Officer, Zsolt comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Shoguns Research Department he's working closely with his team to deliver the highest quality of robotics available.",
+                      "Our Chief Executive Officer, Zsolt comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Shogun Research Department he's working closely with his team to deliver the highest quality of robotics available.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25752,7 +25752,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shoguns Resources he's handling all the upcoming disputes in our company as well as some of the Shoguns behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the Shogun behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25791,7 +25791,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shoguns Resources he's handling all the upcoming disputes in our company as well as some of the shoguns behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the shogun behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25830,7 +25830,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shoguns Resources he's handling all the upcoming disputes in our company as well as some of the shoguns behaviour issues.",
+                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the shogun behaviour issues.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25927,7 +25927,7 @@
                 children: [
                   (0, Ze.jsx)("p", {
                     children:
-                      "COPYRIGHT 2022 APTOS SHOGUNS TEAM \\  Version 2.0.1",
+                      "COPYRIGHT 2022 APTOS SHOGUN TEAM \\  Version 2.0.1",
                   }),
                   (0, Ze.jsxs)("div", {
                     className: "awesome",
@@ -25964,14 +25964,14 @@
               (0, Ze.jsxs)(Ua, {
                 children: [
                   (0, Ze.jsx)("meta", { charSet: "utf-8" }),
-                  (0, Ze.jsx)("title", { children: "Aptos Shoguns experience" }),
+                  (0, Ze.jsx)("title", { children: "Aptos Shogun experience" }),
                   (0, Ze.jsx)("link", {
                     rel: "canonical",
-                    href: "https://aptosshoguns.com",
+                    href: "https://aptosshogun.com",
                   }),
                   (0, Ze.jsx)("meta", {
                     name: "description",
-                    content: "Aptos Shoguns NFT collection and virtual experience",
+                    content: "Aptos Shogun NFT collection and virtual experience",
                   }),
                 ],
               }),
@@ -26027,7 +26027,7 @@
                             let mintQuantity = document.getElementById("id-mint-quantity").value
                             mintQuantity = mintQuantity ? +mintQuantity : 1
                             const cmAddress = "0xdefa3ededfd411f9497bc77e62f0bc52365f742729ec9b3f6363c5ee34ec9a66"
-                            const collectionName = "BeaterShoguns"
+                            const collectionName = "BeaterShogun"
                             const payload = {
                               type: "entry_function_payload",
                               function: "0x5ac985f1fe40c5121eb33699952ce8a79b1d1cb7438709dbd1da8e840a04fbee::candy_machine_v2::mint_tokens",
@@ -26112,15 +26112,15 @@
                 children: [
                   (0, Ze.jsx)("meta", { charSet: "utf-8" }),
                   (0, Ze.jsx)("title", {
-                    children: "Aptos Shoguns Mint your shoguns soon",
+                    children: "Aptos Shogun Mint your shogun soon",
                   }),
                   (0, Ze.jsx)("link", {
                     rel: "canonical",
-                    href: "https://aptosshoguns.com",
+                    href: "https://aptosshogun.com",
                   }),
                   (0, Ze.jsx)("meta", {
                     name: "description",
-                    content: "Aptos Shoguns NFT collection and virtual experience",
+                    content: "Aptos Shogun NFT collection and virtual experience",
                   }),
                   (0, Ze.jsx)("script", {
                     src: "https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0-rc.0/web3.min.js",

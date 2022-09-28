@@ -4,11 +4,11 @@ svg {
   width: 140px;
 }
 @font-face {
-  font-family: aptosShogunsFont;
-  src: url(../media/AptosShogunsFont.ttf);
+  font-family: aptosShogunFont;
+  src: url(../media/AptosShogunFont.ttf);
 }
 .custom-aptos-link {
-  font-family: 'aptosShogunsFont' !important;
+  font-family: 'aptosShogunFont' !important;
   color: var(--themecolour);
   letter-spacing: 2px;
   text-decoration: none !important;
@@ -96,8 +96,8 @@ svg {
   margin-top: 15vh;
   text-align: center;
 }
-.shoguns {
-  font-family: 'aptosShogunsFont' !important;
+.shogun {
+  font-family: 'aptosShogunFont' !important;
   color: var(--themecolour);
   letter-spacing: 5px;
 }
