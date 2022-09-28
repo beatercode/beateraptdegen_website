@@ -25496,6 +25496,15 @@
                 }),
               }),
               (0, Ze.jsx)(Ud, {
+                /*
+                 <ol class="rounded-list">
+                <li><a href="">List item</a></li>
+                <li><a href="">List item</a></li>
+                <li><a href="">List item</a><li>
+                <li><a href="">List item</a></li>
+                <li><a href="">List item</a></li>
+              </ol>
+                */
                 xs: "12",
                 sm: "12",
                 md: "12",
@@ -25504,7 +25513,7 @@
                 xxl: "6",
                 className: "parktext",
                 children: (0, Ze.jsx)("div", {
-                  children: (0, Ze.jsx)("p", {
+                  children: [(0, Ze.jsx)("p", {
                     className: "dark",
                     children:
                       `Create Artworks & Build Tech\n
@@ -25518,6 +25527,32 @@
                       NFT Airdrops for Shogun holders\n
                       More Details coming soon`,
                   }),
+                  (0, Ze.jsx)("ol", {
+                    className: "rectangle-list",
+                    children: [
+                      (0, Ze.jsx)("li", {
+                        children: (0, Ze.jsx)("a", {
+                          href: "",
+                          children: "ITEM"
+                        })
+
+                      }),
+                      (0, Ze.jsx)("li", {
+                        children: (0, Ze.jsx)("a", {
+                          href: "",
+                          children: "ITEM"
+                        })
+
+                      }),
+                      (0, Ze.jsx)("li", {
+                        children: (0, Ze.jsx)("a", {
+                          href: "",
+                          children: "ITEM"
+                        })
+
+                      })
+                    ]
+                  })]
                 }),
               }),
               (0, Ze.jsx)(Ud, {
