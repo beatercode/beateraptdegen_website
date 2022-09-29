@@ -25713,7 +25713,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Executive Officer, Marcus comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Shogun Research Department he's working closely with his team to deliver the highest quality of robotics available.",
+                      "Our Chief Executive Officer, Marcus comes from a design and marketing background and helped different brands for more than 15 years. As the Head of the Shogun Research Department he's working closely with team to deliver the highest quality available.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
@@ -25752,7 +25752,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our technology officer IVAN is a full stack developer with experience in blockchain development for past 6 years. Ivan has worked on the decentralised applications on the bsc, ethereum and solana blockchains.",
+                      "Our technology officer IVAN is a full stack developer with high experience in blockchain development for past 7 years. Ivan has worked on various decentralised applications on the bsc, ethereum and solana blockchains.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
