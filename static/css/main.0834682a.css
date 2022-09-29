@@ -11,6 +11,9 @@ svg {
   width: 100%;
   text-align: center;
 }
+.social-inner-col {
+  text-align: left;
+}
 .custom-aptos-link {
   font-family: 'aptosShogunFont' !important;
   color: var(--themecolour);
@@ -5162,6 +5165,7 @@ fieldset:disabled .btn {
 }
 .small-divider {
   padding: 0;
+  height: 15px;
 }
 .nopad {
   padding: 0 !important;
