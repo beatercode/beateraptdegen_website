@@ -25713,7 +25713,7 @@
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Executive Officer, Zsolt comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Shogun Research Department he's working closely with his team to deliver the highest quality of robotics available.",
+                      "Our Chief Executive Officer, Marcus comes from a design and marketing background helping different brands for more than 10 years. As the Head of the Shogun Research Department he's working closely with his team to deliver the highest quality of robotics available.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
