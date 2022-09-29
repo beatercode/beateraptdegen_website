@@ -25717,46 +25717,7 @@
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://instagram.com/",
-                    children: "Instagram",
-                  }),
-                ],
-              }),
-              (0, Ze.jsx)(Ud, {
-                xs: "12",
-                sm: "12",
-                md: "12",
-                lg: "1",
-                xl: "1",
-                xxl: "1",
-              }),
-              (0, Ze.jsxs)(Ud, {
-                xs: "12",
-                sm: "12",
-                md: "12",
-                lg: "5",
-                xl: "5",
-                xxl: "5",
-                className: "teammember",
-                children: [
-                  (0, Ze.jsx)("p", {
-                    className: "teamintro",
-                    children: "Co funded by",
-                  }),
-                  (0, Ze.jsx)("h2", { className: "onih2", children: "Dionise" }),
-                  (0, Ze.jsxs)("h5", {
-                    className: "onih5",
-                    children: [
-                      "Chief Technology Officer",
-                    ],
-                  }),
-                  (0, Ze.jsx)("p", {
-                    children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the Shogun behaviour issues.",
-                  }),
-                  (0, Ze.jsx)("a", {
-                    className: "link",
-                    href: "https://www.instagram.com/",
+                    href: "https://twitter.com/unclaimed_alpha",
                     children: "Instagram",
                   }),
                 ],
