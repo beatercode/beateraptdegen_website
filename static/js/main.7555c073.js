@@ -25891,7 +25891,7 @@
                 className: "social",
                 children: [
                   (0, Ze.jsx)("h1", {
-                    className: "onih1 italic",
+                    className: "onih1 italic hovereffect",
                     children: "STAY UPDATED",
                   }),
                   (0, Ze.jsx)("div", { className: "divider" }),

@@ -5160,6 +5160,17 @@ fieldset:disabled .btn {
 .dropstart .dropdown-toggle:empty:after {
   margin-left: 0;
 }
+.hovereffect {
+  text-shadow: 0;
+  transition-property: text-shadow; 
+  transition-duration: 0.3s;
+}
+.hovereffect:hover {
+  text-shadow: 0 0 5px #2ed8b3d1,
+              0 0 25px #2ed8b3d1,
+              0 0 50px #2ed8b3d1,
+              0 0 100px #2ed8b3d1;
+}
 .dropstart .dropdown-toggle:before {
   vertical-align: 0;
 }
