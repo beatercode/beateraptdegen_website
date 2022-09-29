@@ -25782,21 +25782,21 @@
                     className: "teamintro",
                     children: "Co funded by",
                   }),
-                  (0, Ze.jsx)("h2", { className: "onih2", children: "Max Cap" }),
+                  (0, Ze.jsx)("h2", { className: "onih2", children: "Ivan" }),
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "Chief Marketing Officer",
+                      "Blockchain Developer",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the shogun behaviour issues.",
+                      "Our technology officer IVAN is a full stack developer with experience in blockchain development for past 6 years. Ivan has worked on the decentralised applications on the bsc, ethereum and solana blockchains.",
                   }),
                   (0, Ze.jsx)("a", {
                     className: "link",
-                    href: "https://www.instagram.com/",
-                    children: "Instagram",
+                    href: "https://twitter.com/daringivan",
+                    children: "Twitter",
                   }),
                 ],
               }),
@@ -25825,17 +25825,12 @@
                   (0, Ze.jsxs)("h5", {
                     className: "onih5",
                     children: [
-                      "HR Manager",
+                      "Chief Advisor and Artist",
                     ],
                   }),
                   (0, Ze.jsx)("p", {
                     children:
-                      "Our Chief Operating Officer, Devon is equipped with great human skills, such as communication and problem solving. As a head of Shogun Resources he's handling all the upcoming disputes in our company as well as some of the shogun behaviour issues.",
-                  }),
-                  (0, Ze.jsx)("a", {
-                    className: "link",
-                    href: "https://www.instagram.com/",
-                    children: "Instagram",
+                      "A talented artist Erik is a digital artist and art director who creates stylish and sensual artworks with in his unique style.",
                   }),
                 ],
               }),
