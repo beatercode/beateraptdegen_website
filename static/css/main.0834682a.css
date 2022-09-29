@@ -7,6 +7,10 @@ svg {
   font-family: aptosShogunFont;
   src: url(../media/AptosShogunFont.ttf);
 }
+.aptos-logo {
+  width: 100%;
+  text-align: center;
+}
 .custom-aptos-link {
   font-family: 'aptosShogunFont' !important;
   color: var(--themecolour);
