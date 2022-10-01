@@ -12391,6 +12391,10 @@
                     children: "Twitter",
                   }),
                   (0, Ze.jsx)("a", {
+                    href: "https://discord.gg/NqvJusnwk4",
+                    children: "Discord",
+                  }),
+                  (0, Ze.jsx)("a", {
                     children: (0, Ze.jsx)(Rr, {
                       className: "button mint-nav-button",
                       href: "https://bluemove.net/",
@@ -25718,7 +25722,7 @@
                   (0, Ze.jsx)("a", {
                     className: "link",
                     href: "https://twitter.com/unclaimed_alpha",
-                    children: "Instagram",
+                    children: "Twitter",
                   }),
                 ],
               }),
@@ -25825,8 +25829,8 @@
                     "data-theme": "silenced",
                     children: (0, Ze.jsx)("svg", {
                       xmlns: "http://www.w3.org/2000/svg",
-                      width: "100%",
-                      height: "100%",
+                      width: "80%",
+                      height: "80%",
                       viewBox: "0 0 112 112",
                       children: (0, Ze.jsx)("path", {
                         className: "aptos-logo",

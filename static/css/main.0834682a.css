@@ -9,7 +9,9 @@ svg {
 }
 .aptos-logo {
   width: 100%;
+  height: 60%;
   text-align: center;
+  fill: black;
 }
 .social-inner-col {
   text-align: left;
