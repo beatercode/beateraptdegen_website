@@ -25904,7 +25904,7 @@
                 children: [
                   (0, Ze.jsx)("p", {
                     children:
-                      "COPYRIGHT 2022 APTOS SHOGUN TEAM \\  Version 2.0.1",
+                      "COPYRIGHT 2022 YŌKAI TEAM \\  Version 2.0.1",
                   }),
                   (0, Ze.jsxs)("div", {
                     className: "awesome",
