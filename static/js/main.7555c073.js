@@ -25807,6 +25807,40 @@
                 xl: "1",
                 xxl: "1",
               }),
+              (0, Ze.jsxs)(Ud, {
+                xs: "12",
+                sm: "12",
+                md: "12",
+                lg: "5",
+                xl: "5",
+                xxl: "5",
+                className: "teammember",
+                children: [
+                  (0, Ze.jsx)("p", {
+                    className: "teamintro",
+                    children: "with the help of",
+                  }),
+                  (0, Ze.jsx)("h2", { className: "onih2", children: "EGA 2ez4crypto" }),
+                  (0, Ze.jsxs)("h5", {
+                    className: "onih5",
+                    children: [
+                      "Chief Marketing Officer",
+                    ],
+                  }),
+                  (0, Ze.jsx)("p", {
+                    children:
+                      "EGA has 5 years of marketing and development experience in crypto. EGA has worked with many defi and NFT projects in the past & has contributed in making them succeful",
+                  }),
+                ],
+              }),
+              (0, Ze.jsx)(Ud, {
+                xs: "12",
+                sm: "12",
+                md: "12",
+                lg: "1",
+                xl: "1",
+                xxl: "1",
+              }),
             ],
           }),
         });
