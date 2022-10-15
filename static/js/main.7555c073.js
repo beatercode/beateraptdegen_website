@@ -12397,7 +12397,7 @@
                   (0, Ze.jsx)("a", {
                     children: (0, Ze.jsx)(Rr, {
                       className: "button mint-nav-button",
-                      href: "https://bluemove.net/",
+                      href: "https://bluemove.net/collection/aptos-shogun",
                       children: "Go to marketplace",
                     }),
                   }),
@@ -19578,7 +19578,7 @@
                         (0, Ze.jsx)("h4", {
                           className: "onih4",
                           children:
-                            "Influenced by the ancient chronicles of Japan, Aptos Shogun Collection is a collection of 6659 Shogun and their virtual world.",
+                            "Influenced by the ancient chronicles of Japan, Aptos Shogun Experience is a collection of 6659 Shogun and their virtual world.",
                         }),
                       ],
                     }),
@@ -25643,7 +25643,7 @@
                   children: (0, Ze.jsx)("p", {
                     className: "dark",
                     children:
-                      "The Aptos Shogun park is a digital experience where the Shogun holders can experience a digitally fabricated world through their eyes. Depending on the kind of Shogun they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every Shogun will have a hose/place to stay in this experience that we will be dropping later this year. Come and experience loneliness together.",
+                      "The Aptos Shogun park is a digital experience where the Shogun holders can experience a digitally fabricated world through their eyes. Depending on the kind of Shogun they will be living in different areas of the Park and will be able to experience a strange loneliness together. Every Shogun will have a hose/place to stay in this experience that we will be dropping in Q1 2023. Come and experience loneliness together.",
                   }),
                 }),
               }),
@@ -25993,7 +25993,7 @@
                       children: "Mint on Bluemove",
                       onClick: function (e) {
                         // var s = document.getElementById("minting-button-id")
-                        window.location.replace("https://bluemove.net/")
+                        window.location.replace("https://bluemove.net/collection/aptos-shogun")
                         return
 
                         window.martian.connect()

@@ -31,7 +31,7 @@ function Park() {
               eyes. Depending on the kind of oni they will be living in
               different areas of the Park and will be able to experience a
               strange loneliness together. Every oni will have a hose/place to
-              stay in this experience that we will be dropping later this year.
+              stay in this experience that we will be dropping in Q1 2023.
               Come and experience loneliness together.
             </p>
           </div>
